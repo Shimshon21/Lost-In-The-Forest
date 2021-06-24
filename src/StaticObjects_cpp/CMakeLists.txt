@@ -1,0 +1,15 @@
+﻿target_sources (Project_David_Sapir_Shimshon_Polak PRIVATE 
+"Bonus.cpp"
+"Decoration.cpp"
+"Door.cpp"
+"ExtraLife.cpp"
+"SpecialAbility.cpp"
+"StaticObject.cpp"
+"FastMoving.cpp"
+"FireArrows.cpp"
+"Gold.cpp"
+"Hurricane.cpp"
+"JumpBoost.cpp"
+"Key.cpp"
+"Spike.cpp"
+"Block.cpp")
