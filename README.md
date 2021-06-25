@@ -4,6 +4,12 @@ and keys to open the door to the next level. The player controls Mori, a white g
 Mori, must jump, climb, and use various other abilities to navigate the game's world.
 During the game, Mori is faced with various enemies making the experience.
 
+The game was created through the Computer science course Object-Oriented Programming 2.
+
+The game was written in C++ using Visual Studio IDE and SFML graphic library. 
+
+Written by: Shimshon Polak and David Sapir
+
 <p>
  <image src = "https://github.com/Shimshon21/Lost-In-The-Forest/blob/main/menu_picture.png"/> 
 </p>
