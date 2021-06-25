@@ -4,6 +4,7 @@ and keys to open the door to the next level. The player controls Mori, a white g
 Mori, must jump, climb, and use various other abilities to navigate the game's world.
 During the game, Mori is faced with various enemies making the experience.
 
+Menu:
 <p>
  <image src = "https://github.com/Shimshon21/Lost-In-The-Forest/blob/main/menu_picture.png"/> 
 </p>
